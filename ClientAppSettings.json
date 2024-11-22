@@ -59,7 +59,7 @@
     "DFIntMaxFrameBufferSize": "4",
     "DFIntMicroProfilerDpiScaleOverride": "100",
     "DFIntNumAssetsMaxToPreload": "2147483647",
-    "DFIntPerformanceControlTextureQualityBestUtility": "-1",
+    "DFIntPerformanceControlTextureQualityBestUtility": "0",
     "DFIntRakNetMtuValue1InBytes": "1396",
     "DFIntRakNetMtuValue2InBytes": "1337",
     "DFIntRakNetMtuValue3InBytes": "1250",
