@@ -63,7 +63,7 @@
     "DFIntRakNetMtuValue1InBytes": "1396",
     "DFIntRakNetMtuValue2InBytes": "1337",
     "DFIntRakNetMtuValue3InBytes": "1250",
-    "DFIntTaskSchedulerTargetFps": 1000,
+    "DFIntTaskSchedulerTargetFps": 60,
     "DFIntTeleportClientAssetPreloadingHundredthsPercentage": "100000",
     "DFIntTeleportClientAssetPreloadingHundredthsPercentage2": "100000",
     "DFIntTextureQualityOverride": "0",
