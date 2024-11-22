@@ -9,7 +9,7 @@ First we need to locate your _ClientAppSettings.json_
 
 Note: These commands are on Ubuntu and you may use any text-editior of your choice
 
-# Troubleshooting
+## Troubleshooting
 Please be adviced, Even a small comma in the wrong place can make your Sober not open AT ALL. 
 - Open Sober from terminal to see the specific cause of the failure to launch.
 - If you have messed up your fastflag and have no idea what to do. Just delete your _ClientAppSettings.json_, Sober will will auto-generate a new one upon the next launch.
