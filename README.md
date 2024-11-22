@@ -10,6 +10,10 @@ First we need to locate your _ClientAppSettings.json_
 ###### We recommend checking out [Lucem](https://github.com/xTrayambak/lucem), which is blostraps but for Sober. These commands above are also for Ubuntu, So if you have any knowledge about your Distro use these commands as a reference.
 
 # Configurations
+###### FPS Limit
+```json
+{"DFIntTaskSchedulerTargetFps": 60}
+```
 
 ## Troubleshooting
 Please be adviced, Even a small comma in the wrong place can make your Sober not open AT ALL. 
