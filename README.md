@@ -7,7 +7,7 @@ First we need to locate your _ClientAppSettings.json_
 - We run: `xdg-open ~/.var/app/org.vinegarhq.Sober/data/sober/exe/ClientSettings/ClientAppSettings.json`
 - OR We can run `nano ~/.var/app/org.vinegarhq.Sober/data/sober/exe/ClientSettings/ClientAppSettings.json`
 
-Note: These commands are on Ubuntu and you may use any text-editior of your choice
+**We recommend checking out [Lucem](https://github.com/xTrayambak/lucem), which is blostraps but for Sober. These commands above are also for Ubuntu, So if you have any knowledge about your Distro use these commands as a reference.**
 
 ## Troubleshooting
 Please be adviced, Even a small comma in the wrong place can make your Sober not open AT ALL. 
