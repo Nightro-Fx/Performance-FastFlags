@@ -51,10 +51,10 @@ First we need to locate your _ClientAppSettings.json_
 ```
 ###### Change your value to this: (FOR ETHERNET ONLY). No need to change if on Wifi.
 ```json
-"DFIntRakNetMtuValue1InBytes": "1480",
-"DFIntRakNetMtuValue2InBytes": "1480",
-"DFIntRakNetMtuValue3InBytes": "1480",
-"DFIntConnectionMTUSize": "999"
+"DFIntRakNetMtuValue1InBytes": "1500",
+"DFIntRakNetMtuValue2InBytes": "1500",
+"DFIntRakNetMtuValue3InBytes": "1500",
+"DFIntConnectionMTUSize": "1500"
 ```
 
 ## Troubleshooting
