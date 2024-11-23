@@ -54,7 +54,7 @@ First we need to locate your _ClientAppSettings.json_
 "DFIntRakNetMtuValue1InBytes": "1480",
 "DFIntRakNetMtuValue2InBytes": "1480",
 "DFIntRakNetMtuValue3InBytes": "1480",
-"DFIntConnectionMTUSize": 999
+"DFIntConnectionMTUSize": "999"
 ```
 
 ## Troubleshooting
