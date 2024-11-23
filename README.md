@@ -14,6 +14,10 @@ First we need to locate your _ClientAppSettings.json_
 ```json
 {"DFIntTaskSchedulerTargetFps": 60}
 ```
+###### Set Monitor Hertz
+```json
+{"FIntTargetRefreshRate": 60}
+```
 
 ## Troubleshooting
 Please be adviced, Even a small comma in the wrong place can make your Sober not open AT ALL. 
