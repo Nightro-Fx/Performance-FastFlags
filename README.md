@@ -1,7 +1,22 @@
-<h1 align="center">
-  <img src="https://github.com/Nightro-Fx/Performance-FastFlags/blob/main/img/Sober.png" width="40"/> 
-  Performance Sober Fast Flags
-</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1 align="center">
+        <img src="https://github.com/Nightro-Fx/Performance-FastFlags/blob/main/img/Sober.png" width="40" alt="Logo"/> 
+        Performance Sober Fast Flags
+    </h1>
+  <p align="center">
+  <a href="https://discord.gg/ybWP5KFegQ">
+    <img src="https://github.com/Nightro-Fx/Performance-FastFlags/blob/main/img/Discord_Join.png" alt="Join Now" width="150">
+  </a>
+</p>
+
+</body>
+</html>
 
 
 
