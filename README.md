@@ -55,6 +55,6 @@ Please be adviced, Even a small comma in the wrong place can make your Sober not
 - If you have messed up your fastflag and have no idea what to do. Just delete your _ClientAppSettings.json_, Sober will will auto-generate a new one upon the next launch.
 - If there is a specific change made by our configuration that your dissatisfied by, Try bulk deleting the fastflags then launching Sober. Continue deleteing chunks until you notice your problem is solved after deleting a specific section. With enough tries, You will be able to isolate the issues to a specifc fastflag.
 
-> **Notice**  
+> [!IMPORTANT] 
 >This page will not use physics-related fastflags to avoid any risk of users being banned. It is dedicated to performance improvements. Although updates may become less frequent once the page is finished, we will continue to add new fastflags as they are discovered.
 
