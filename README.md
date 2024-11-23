@@ -57,6 +57,5 @@ Please be adviced, Even a small comma in the wrong place can make your Sober not
 
 > **Notice**  
 > Physics-related fastflags will not be used on this page to prevent any risk of users being banned.
-
-This page is focused on performance enhancements. While updates may become less frequent once the page is complete, we will continue to add new fastflags as they are discovered.
+> This page is focused on performance enhancements. While updates may become less frequent once the page is complete, we will continue to add new fastflags as they are discovered.
 
