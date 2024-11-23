@@ -56,6 +56,5 @@ Please be adviced, Even a small comma in the wrong place can make your Sober not
 - If there is a specific change made by our configuration that your dissatisfied by, Try bulk deleting the fastflags then launching Sober. Continue deleteing chunks until you notice your problem is solved after deleting a specific section. With enough tries, You will be able to isolate the issues to a specifc fastflag.
 
 > **Notice**  
-> Physics-related fastflags will not be used on this page to prevent any risk of users being banned.
-> This page is focused on performance enhancements. While updates may become less frequent once the page is complete, we will continue to add new fastflags as they are discovered.
+>This page will not use physics-related fastflags to avoid any risk of users being banned. It is dedicated to performance improvements. Although updates may become less frequent once the page is finished, we will continue to add new fastflags as they are discovered.
 
