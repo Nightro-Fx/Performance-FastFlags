@@ -18,6 +18,10 @@ First we need to locate your _ClientAppSettings.json_
 ```json
 {"FIntTargetRefreshRate": 60}
 ```
+###### Enable/Disable Bubble Chat
+```json
+{ "FFlagEnableBubbleChatFromChatService": "False" }
+```
 
 ## Troubleshooting
 Please be adviced, Even a small comma in the wrong place can make your Sober not open AT ALL. 
