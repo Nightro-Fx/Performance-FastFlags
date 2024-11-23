@@ -1,5 +1,16 @@
-### ⚠️   DISCLAIMER
-FastFlags should **never** be used for hacking. These flags are strictly meant for FPS boosting and ping stabilization. If frustration over skill-issue is pushing you to hacking, consider staying away from competive games where you get sh*t on by genuine player. Please do not ruin it for the Linux community for your selfish behaviour.
+<h1 align="center">
+  <img src="https://github.com/Nightro-Fx/Performance-FastFlags/blob/main/img/Sober.png" width="40"/> 
+  Performance Sober Fast Flags
+</h1>
+
+
+
+
+
+#### ⚠️ DISCLAIMER  
+FastFlags should **never** be used for hacking. These flags are strictly meant for FPS boosting and ping stabilization. If frustration over skill issues is pushing you towards hacking, consider staying away from competitive games where you might struggle against genuine players. Please do not ruin it for the Linux community through selfish behavior.
+
+
 # Getting Started
 First we need to locate your _ClientAppSettings.json_
 - Make sure _Show Hidden File_ is toggled on (CTRL + H)
