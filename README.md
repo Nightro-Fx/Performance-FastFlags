@@ -38,15 +38,22 @@ First we need to locate your _ClientAppSettings.json_
 # Configurations
 ###### FPS Limit
 ```json
-{"DFIntTaskSchedulerTargetFps": 60}
+"DFIntTaskSchedulerTargetFps": 60
 ```
 ###### Set Monitor Hertz
 ```json
-{"FIntTargetRefreshRate": 60}
+"FIntTargetRefreshRate": 60
 ```
 ###### Enable/Disable Bubble Chat
 ```json
-{ "FFlagEnableBubbleChatFromChatService": "False" }
+"FFlagEnableBubbleChatFromChatService": "False" 
+```
+###### Change your value to this: (FOR ETHERNET ONLY). No need to change if on Wifi.
+```json
+"DFIntRakNetMtuValue1InBytes": "1480",
+"DFIntRakNetMtuValue2InBytes": "1480",
+"DFIntRakNetMtuValue3InBytes": "1480",
+"DFIntConnectionMTUSize": 999
 ```
 
 ## Troubleshooting
