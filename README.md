@@ -39,24 +39,32 @@ First we need to locate your _ClientAppSettings.json_
 # Configurations
 ###### FPS Limit
 ```json
-"DFIntTaskSchedulerTargetFps": 60
+"DFIntTaskSchedulerTargetFps": "60"
 ```
 ###### Set Monitor Hertz
 ```json
-"FIntTargetRefreshRate": 60
+"FIntTargetRefreshRate": "60"
 ```
 ###### Enable/Disable Bubble Chat
 ```json
 "FFlagEnableBubbleChatFromChatService": "False" 
 ```
-###### Change your value to this: (FOR ETHERNET ONLY). No need to change if on Wifi.
+###### Adjust these values based on your internet speed
 ```json
-"DFIntRakNetMtuValue1InBytes": "1500",
-"DFIntRakNetMtuValue2InBytes": "1500",
-"DFIntRakNetMtuValue3InBytes": "1500",
-"DFIntConnectionMTUSize": "1500"
+"DFIntRakNetMtuValue1InBytes": "1480",
+"DFIntRakNetMtuValue2InBytes": "1480",
+"DFIntRakNetMtuValue3InBytes": "1480",
+"DFIntConnectionMTUSize": "1480"
+```
+###### Fix for corrupted leaderboards:
+```json
+ "DFFlagOptimizeIsA": "False",
 ```
 
+###### Low Render Distance
+```json
+"DFIntDebugRestrictGCDistance": "1",
+```
 ## Troubleshooting
 Please be adviced, Even a small comma in the wrong place can make your Sober not open AT ALL. 
 - Open Sober from terminal to see the specific cause of the failure to launch.
