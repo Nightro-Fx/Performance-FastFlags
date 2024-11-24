@@ -65,6 +65,23 @@ First we need to locate your _ClientAppSettings.json_
 ```json
 "DFIntDebugRestrictGCDistance": "1",
 ```
+###### Disable ALL Lights
+```json
+"DFFlagDebugPauseVoxelizer": "True",
+```
+###### Version 1 ESC menu
+```json
+"FIntNewInGameMenuPercentRollout3": "10000",
+```
+###### Custom Font Size
+```json
+"FIntFontSizePadding": "1",
+```
+###### Enable GPU Curling
+```json
+"FFlagFastGPULightCulling3": "True"
+```
+
 ## Troubleshooting
 Please be adviced, Even a small comma in the wrong place can make your Sober not open AT ALL. 
 - Open Sober from terminal to see the specific cause of the failure to launch.
