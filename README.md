@@ -9,12 +9,17 @@
         <img src="https://github.com/Nightro-Fx/Performance-FastFlags/blob/main/img/Sober.png" width="40" alt="Logo"/> 
         Performance Sober Fast Flags
     </h1>
+  
   <p align="center">
   <a href="https://discord.gg/ybWP5KFegQ">
     <img src="https://github.com/Nightro-Fx/Performance-FastFlags/blob/main/img/Discord_Join.png" alt="Join Now" width="150">
   </a>
 </p>
-
+<p align="center">
+  <a href="https://www.youtube.com/@Nightro-Fx">
+    <img src="https://github.com/Nightro-Fx/Performance-FastFlags/blob/main/img/Subscribe_Hover.png" alt="Sub Now" width="130">
+  </a>
+</p>
 </body>
 </html>
 
