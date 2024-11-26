@@ -28,7 +28,7 @@
 
 
 #### ⚠️ DISCLAIMER  
-FastFlags should **never** be used for hacking. These flags are strictly meant for FPS boosting and ping stabilization. If frustration over skill issues is pushing you towards hacking, consider staying away from competitive games where you might struggle against genuine players. Please do not ruin it for the Linux community through selfish behavior.
+FastFlags should **never** be used for hacking. These flags are strictly meant for FPS boosting and ping stabilization. If frustration over skill issues is pushing you to hacking, consider staying away from competitive games where you get outplayed by genuine players. Please do not ruin it for the Linux community through your selfish behavior.
 
 
 # Getting Started
