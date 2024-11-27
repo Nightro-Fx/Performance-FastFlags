@@ -74,9 +74,12 @@ First we need to locate your _ClientAppSettings.json_
 ```json
 "DFFlagDebugPauseVoxelizer": "True",
 ```
-###### Version 1 ESC menu
+###### Version 2 ESC menu
 ```json
-"FIntNewInGameMenuPercentRollout3": "10000",
+"FIntNewInGameMenuPercentRollout3": "100",
+"FFlagEnableInGameMenuControls": "False",
+ "FFlagDisableNewIGMinDUA": "True",
+"FFlagEnableInGameMenuChromeABTest4": "False",
 ```
 ###### Custom Font Size
 ```json
