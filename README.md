@@ -54,7 +54,7 @@ First we need to locate your _ClientAppSettings.json_
 ```json
 "FFlagEnableBubbleChatFromChatService": "False" 
 ```
-###### Adjust these values based on your internet speed
+###### Adjust these values based on your internet speed (Lower it if you can't join a game)
 ```json
 "DFIntRakNetMtuValue1InBytes": "1480",
 "DFIntRakNetMtuValue2InBytes": "1480",
