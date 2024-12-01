@@ -11,7 +11,7 @@
     </h1>
   
   <p align="center">
-  <a href="https://discord.gg/ybWP5KFegQ">
+  <a href="https://discord.gg/kNHaaFsGZ2">
     <img src="https://github.com/Nightro-Fx/Performance-FastFlags/blob/main/img/Discord_Join.png" alt="Join Now" width="150">
   </a>
 </p>
