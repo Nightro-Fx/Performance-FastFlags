@@ -41,12 +41,31 @@ First we need to locate your _ClientAppSettings.json_
 
 ###### Checking out [Lucem](https://github.com/xTrayambak/lucem), which is blostraps but for Sober. These commands above are also for Ubuntu, So if you have any knowledge about your Distro use these commands as a reference.
 
-# Configurations
-###### FPS Limit
+# User's Manual
+###### Setting Vukan as rendering API
+```json
+    "FFlagDebugGraphicsDisableDirect3D11": "True",
+    "FFlagDebugGraphicsPreferVulkan": "True"
+```
+###### Setting OpenGL as rendering API
+```json
+"FFlagDebugGraphicsDisableDirect3D11": "True",
+"FFlagDebugGraphicsPreferOpenGL": "True"
+```
+###### Setting DirectX10 as rendering API
+```json
+"FFlagDebugGraphicsPreferD3D11FL10": "True"
+```
+###### Setting DirectX10 as rendering API
+```json
+"FFlagDebugGraphicsPreferD3D11": "True"
+```
+
+###### Setting FPS Limit
 ```json
 "DFIntTaskSchedulerTargetFps": "60"
 ```
-###### Set Monitor Hertz
+###### Setting Monitor Hertz
 ```json
 "FIntTargetRefreshRate": "60"
 ```
@@ -64,27 +83,27 @@ First we need to locate your _ClientAppSettings.json_
 ```
 ###### Fix for corrupted leaderboards:
 ```json
- "DFFlagOptimizeIsA": "False",
+ "DFFlagOptimizeIsA": "False"
 ```
 
 ###### Low Render Distance
 ```json
-"DFIntDebugRestrictGCDistance": "1",
+"DFIntDebugRestrictGCDistance": "1"
 ```
 ###### Disable ALL Lights
 ```json
-"DFFlagDebugPauseVoxelizer": "True",
+"DFFlagDebugPauseVoxelizer": "True"
 ```
 ###### Version 2 ESC menu
 ```json
 "FIntNewInGameMenuPercentRollout3": "100",
 "FFlagEnableInGameMenuControls": "False",
  "FFlagDisableNewIGMinDUA": "True",
-"FFlagEnableInGameMenuChromeABTest4": "False",
+"FFlagEnableInGameMenuChromeABTest4": "False"
 ```
 ###### Custom Font Size
 ```json
-"FIntFontSizePadding": "1",
+"FIntFontSizePadding": "1"
 ```
 ###### Enable GPU Curling
 ```json
