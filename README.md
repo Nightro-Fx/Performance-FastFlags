@@ -52,14 +52,6 @@ First we need to locate your _ClientAppSettings.json_
 "FFlagDebugGraphicsDisableDirect3D11": "True",
 "FFlagDebugGraphicsPreferOpenGL": "True"
 ```
-###### Setting DirectX10 as rendering API
-```json
-"FFlagDebugGraphicsPreferD3D11FL10": "True"
-```
-###### Setting DirectX11 as rendering API
-```json
-"FFlagDebugGraphicsPreferD3D11": "True"
-```
 
 ###### Setting FPS Limit
 ```json
