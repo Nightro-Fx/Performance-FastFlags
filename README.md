@@ -44,8 +44,8 @@ First we need to locate your _ClientAppSettings.json_
 # User's Manual
 ###### Setting Vukan as rendering API
 ```json
-    "FFlagDebugGraphicsDisableDirect3D11": "True",
-    "FFlagDebugGraphicsPreferVulkan": "True"
+"FFlagDebugGraphicsDisableDirect3D11": "True",
+"FFlagDebugGraphicsPreferVulkan": "True"
 ```
 ###### Setting OpenGL as rendering API
 ```json
