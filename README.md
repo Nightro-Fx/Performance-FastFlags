@@ -56,7 +56,7 @@ First we need to locate your _ClientAppSettings.json_
 ```json
 "FFlagDebugGraphicsPreferD3D11FL10": "True"
 ```
-###### Setting DirectX10 as rendering API
+###### Setting DirectX11 as rendering API
 ```json
 "FFlagDebugGraphicsPreferD3D11": "True"
 ```
