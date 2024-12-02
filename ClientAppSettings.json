@@ -120,7 +120,6 @@
     "FFlagDebugEnableVRFTUXExperienceInStudio": "True",
     "FFlagDebugForceFSMCPULightCulling": "True",
     "FFlagDebugForceGenerateHSR": "True",
-    "FFlagDebugGraphicsPreferD3D11": "True",
     "FFlagDebugRenderingSetDeterministic": "True",
     "FFlagDebugSSAOForce": "False",
     "FFlagDebugSelfViewPerfBenchmark": "False",
