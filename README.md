@@ -45,7 +45,7 @@ First we need to locate your _ClientAppSettings.json_
 
 ###### Setting OpenGL as rendering API
 ```json
-"use_opengl": true"
+"use_opengl": true
 ```
 
 ###### Setting FPS Limit
