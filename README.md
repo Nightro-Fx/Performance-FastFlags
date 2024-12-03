@@ -42,15 +42,10 @@ First we need to locate your _ClientAppSettings.json_
 ###### Checking out [Lucem](https://github.com/xTrayambak/lucem), which is blostraps but for Sober. These commands above are also for Ubuntu, So if you have any knowledge about your Distro use these commands as a reference.
 
 # User's Manual
-###### Setting Vukan as rendering API
-```json
-"FFlagDebugGraphicsDisableDirect3D11": "True",
-"FFlagDebugGraphicsPreferVulkan": "True"
-```
+
 ###### Setting OpenGL as rendering API
 ```json
-"FFlagDebugGraphicsDisableDirect3D11": "True",
-"FFlagDebugGraphicsPreferOpenGL": "True"
+"use_opengl": true"
 ```
 
 ###### Setting FPS Limit
