@@ -32,12 +32,12 @@ FastFlags should **never** be used for hacking. These flags are strictly meant f
 
 
 # Getting Started
-First we need to locate your _ClientAppSettings.json_
+First we need to locate your _config.json_
 - Make sure _Show Hidden File_ is toggled on (CTRL + H)
-- Your ClientAppSettings.json is located at `~/.var/app/org.vinegarhq.Sober/data/sober/exe/ClientSettings/`
-- We run: `xdg-open ~/.var/app/org.vinegarhq.Sober/data/sober/exe/ClientSettings/ClientAppSettings.json`
-- OR We can run `nano ~/.var/app/org.vinegarhq.Sober/data/sober/exe/ClientSettings/ClientAppSettings.json`
-- Now just delete everything inside and paste everything from [ClientAppSettings.json](https://github.com/Nightro-Fx/Performance-FastFlags/edit/main/ClientAppSettings.json) in here to your _ClientAppSettings.json_.
+- Your config.json is located at `~/.var/app/org.vinegarhq.Sober/config/sober`
+- We run: `xdg-open ~/.var/app/org.vinegarhq.Sober/config/sober/config.json`
+- OR We can run `nano ~/.var/app/org.vinegarhq.Sober/config/sober/config.json`
+- Now just delete everything inside and paste everything from [ClientAppSettings.json](https://github.com/Nightro-Fx/Performance-FastFlags/edit/main/ClientAppSettings.json) in here to your _config.json_.
 
 ###### Checking out [Lucem](https://github.com/xTrayambak/lucem), which is blostraps but for Sober. These commands above are also for Ubuntu, So if you have any knowledge about your Distro use these commands as a reference.
 
