@@ -1,4 +1,7 @@
 {
+    "bring_back_oof": false,
+    "discord_rpc_enabled": true,
+    "fflags": {
     "DFFlagAdsPreloadInteractivityAssets": "True",
     "DFFlagAssetPreloadingUrlVersionEnabled2": "True",
     "DFFlagAudioEnableVolumetricPanningForMeshes": "True",
@@ -319,4 +322,7 @@
     "FStringTerrainMaterialTable2022": "",
     "FStringTerrainMaterialTablePre2022": "",
     "FStringVoiceBetaBadgeLearnMoreLink": "null"
+},
+    "touch_mode": "off",
+    "use_opengl": false
 }
