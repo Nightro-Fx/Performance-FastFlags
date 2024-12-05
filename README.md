@@ -37,7 +37,7 @@ First we need to locate your _config.json_
 - Your config.json is located at `~/.var/app/org.vinegarhq.Sober/config/sober`
 - We run: `xdg-open ~/.var/app/org.vinegarhq.Sober/config/sober/config.json`
 - OR We can run `nano ~/.var/app/org.vinegarhq.Sober/config/sober/config.json`
-- Now just delete everything inside and paste everything from [ClientAppSettings.json](https://github.com/Nightro-Fx/Performance-FastFlags/edit/main/ClientAppSettings.json) in here to your _config.json_.
+- Now just delete everything inside and paste everything from [config.json](https://github.com/Nightro-Fx/Performance-FastFlags/blob/main/config.json) in here to your _config.json_.
 
 ###### Checking out [Lucem](https://github.com/xTrayambak/lucem), which is blostraps but for Sober. These commands above are also for Ubuntu, So if you have any knowledge about your Distro use these commands as a reference.
 
