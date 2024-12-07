@@ -77,7 +77,6 @@
     "DFIntRakNetMtuValue3InBytes": "1480",
     "DFIntRakNetResendRttMultiple": "1",
     "DFIntRaknetBandwidthPingSendEveryXSeconds": "1",
-    "DFIntRaycastMaxDistance": "3",
     "DFIntServerPhysicsUpdateRate": "60",
     "DFIntServerTickRate": "60",
     "DFIntTaskSchedulerTargetFps": "60",
