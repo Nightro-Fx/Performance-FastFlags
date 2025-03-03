@@ -201,7 +201,7 @@
     "FFlagMigrateTextureManagerIsLocalAsset": "True",
     "FFlagMockOpenSelfViewForCameraUser": "False",
     "FFlagMovePrerender": "True",
-    "FFlagNewLightAttenuation": "Flase",
+    "FFlagNewLightAttenuation": "False",
     "FFlagNewOptimizeNoCollisionPrimitiveInMidphase637": "True",
     "FFlagNotificationButtonTypeVariantMappingEmphasis": "False",
     "FFlagNotificationPluginSignalRReadEvents": "False",
