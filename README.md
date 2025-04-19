@@ -33,6 +33,7 @@ FastFlags should **never** be used for hacking. These flags are strictly meant f
 
 # Getting Started
 First we need to locate your _config.json_
+- If you're using the oof sound config.json, download and rename to just config.json
 - Make sure _Show Hidden File_ is toggled on (CTRL + H)
 - Your config.json is located at `~/.var/app/org.vinegarhq.Sober/config/sober`
 - We run: `xdg-open ~/.var/app/org.vinegarhq.Sober/config/sober/config.json`
